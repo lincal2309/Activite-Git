@@ -1,4 +1,4 @@
 Détails du projet
 =================
 
-Ce fichier est destiné à recevoir les liens externes du projet
+Initialisation : à ce jour, aucun lien avec des projets externe n'est identifié

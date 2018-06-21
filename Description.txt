@@ -1,4 +1,5 @@
 Description du projet
 =====================
 
-Ce fichier contiendra la description du projet
+Initialisation : le projet consiste à se familiariser avec Git, GitHub et les principales fonctions.
+Il s'agit de prendre en main les mécanismes de partages et sauvegardes indispensables aux projets collaboratifs
