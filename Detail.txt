@@ -1,0 +1,4 @@
+Détails du projet
+=================
+
+Ce fichier est destiné à recevoir les liens externes du projet
